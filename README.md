@@ -10,3 +10,7 @@
 - Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 - Jupyter notebooks for data analysis and visualization.
 
+![Feature Importance for Premium Pricing](https://github.com/Sandra-Odera/MyProjects/assets/67535955/cbda7c38-2f09-4199-abd9-ffec875e4000)
+
+![Prediction Function](https://github.com/Sandra-Odera/MyProjects/assets/67535955/7635db25-09b7-41df-b029-8d3d75028126)
+
